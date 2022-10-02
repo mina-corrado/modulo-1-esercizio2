@@ -1,0 +1,60 @@
+.container {
+    width: 720px;
+    margin: 0 auto;
+
+}
+
+.logo {
+    text-align: center;
+
+}
+.logo img{
+    height: 40px; 
+}
+.logo p{
+    font-size: 9px;
+    background-color: rgb(253,251,241);
+    padding: 11px;
+    border-top: 1px solid orange;
+    color:rgb(0,77,76);
+    margin-bottom:45px ;
+}
+.titolo {
+    text-align:center ;
+}
+.titolo h4 {
+    text-align: left;
+    font-weight: 200;
+}
+.immagine  img{
+    border-radius: 7px;
+}
+.immagine h4{
+    text-align: center;
+    font-weight: lighter;
+    color:rgb(153,153,153);
+    
+}
+.immagine h3 {
+    color:rgb(181,70,15);
+}
+.immagine h3 a{
+    color:rgb(16,119,119);
+}
+.ingredienti h2{
+    margin-bottom:50px;
+    margin-top: 50px;;
+}
+.ingredienti ul li{
+    padding: 5px;
+}
+.metodo h2{
+    padding-bottom: 20px; 
+    border-bottom:1px solid rgb(196,243,242);
+
+}
+.metodo h5 a{
+    color: rgb(16,119,119);
+}
+
+
